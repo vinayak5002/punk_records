@@ -88,3 +88,22 @@ CustomerDTO customerDto = mapper.map(customer, CustomreDTO.class);
  - Attributes must be same
 
  	
+# Excluded portions:
+
+ - ORM using JPA
+	+ Creating Entity
+
+ - Stored Procedures execution
+
+ - Caching
+
+ + Spring
+	- Entity Manager
+
+# Course TOC
+ - Need for Spring data, intro to spring data, spring data repositories, CURD operations using spring data, ModelMapper
+
+ - Intro to JPQL, wrt spring data, Selection - the SELECT clause, Restriction - The where clause, JPQL String functions, Grouping and ordering - the group by, Having and order by clause, update and delete queries wrt spring data, query approaches, Pagination and sorting using spring data, CRUD operation using mongodb, PostgreSQL
+
+ - Primary key generation stratigies, One to One relationship, many to One, One to many relationship
+
